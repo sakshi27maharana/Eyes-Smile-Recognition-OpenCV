@@ -1,0 +1,13 @@
+# working window
+Windows Shell
+
+# to see the version
+pip freeze
+
+# to train model
+python eyes_train.py
+python smile_train.py
+
+# to run the detector
+python eyes.py
+python smile.py
